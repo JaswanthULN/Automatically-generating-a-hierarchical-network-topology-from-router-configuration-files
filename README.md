@@ -7,7 +7,7 @@ Getting Started
 To start practicing with these files, follow these steps:
 
 Clone the Repository:
-Clone this repository to your local machine using:
+Clone this repository to your local machine using:git clone <repository-url>
 git clone <repository-url>
 
 Install Cisco Packet Tracer:
