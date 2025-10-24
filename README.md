@@ -1,3 +1,5 @@
+Problem Definition
+In the present digital era, enterprise networks are the backbone of all organizational operations. They connect departments, enable resource sharing, facilitate cloud adoption, and allow seamless communication between internal and external stakeholders. However, the complexity of these networks introduces significant challenges. A single misconfiguration or inefficient design can cascade into severe outages, service degradation, and substantial financial losses. The problem addressed in this project centers around the lack of automation in topology generation, configuration errors in networking devices, inefficient traffic handling, and the limitations of manual troubleshooting.
 What is Cisco Packet Tracer?
 Cisco Packet Tracer is a powerful network simulation tool developed by Cisco. It allows users to create, configure, and test network topologies virtually without physical hardware. It supports a range of network devices and protocols and is widely used for learning and certification training, including CCNA.
 
