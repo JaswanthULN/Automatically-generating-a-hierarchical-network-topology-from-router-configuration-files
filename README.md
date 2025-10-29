@@ -24,3 +24,4 @@ Interact with the network topology, examine device configurations, test differen
 
 Contributions
 Contributions are welcome! If you have additional practical files or improvements, please open a pull request with a brief description of the file and its focus.
+Note: Use python code for execution and .cfg files as input you will get the automatic network topology build by python code and if you want to add switches, connections update the input in .cfg files.  
